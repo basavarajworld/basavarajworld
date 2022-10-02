@@ -3,7 +3,7 @@
 Myself Mr Basavaraj N M ,currently studying BE third year in M S Ramaiah Institute of technology......!
 
 
-I am a full stack web developer 👻🙈
+Web developer:;
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![dev](https://user-images.githubusercontent.com/95290162/173196765-bdadf028-ed03-4932-b576-cd4b1c501842.jpg)
 

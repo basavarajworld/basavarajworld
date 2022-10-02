@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Myself Mr Basavaraj N M ,currently studying BE second year in M S Ramaiah Institute of technology......!
+Myself Mr Basavaraj N M ,currently studying BE third year in M S Ramaiah Institute of technology......!
 
 
 I am a full stack web developer 👻🙈

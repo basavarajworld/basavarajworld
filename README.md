@@ -9,7 +9,7 @@ Web developer:;
 
 languages which are learnt by me,..🙂🙂
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=basavarajworld&langs_count=5&theme=tokyonight)]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basavarajworld&theme=tokyonight)
 
 One advice for you..🙃
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------

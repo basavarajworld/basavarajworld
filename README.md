@@ -11,6 +11,10 @@ languages which are learnt by me,..🙂🙂
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basavarajworld&theme=tokyonight)
 
+Github stats..
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Basavaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=basavarajworld&theme=dark&show_icons=true)
+
 One advice for you..🙃
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Keep Calm and Trust The Process 💔

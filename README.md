@@ -2,7 +2,7 @@
 
 Myself Mr Basavaraj N M ,currently studying BE 4th year in M S Ramaiah Institute of technology......!
 
-![dev](https://www.freecodecamp.org/news/content/images/2022/07/git-github.png)
+![Alt text]([image link](https://www.freecodecamp.org/news/content/images/2022/07/git-github.png))
 
 
 Web developer ; 
